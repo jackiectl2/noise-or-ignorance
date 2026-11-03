@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+data_v2/
+results/v2/main/
+results/v2/pair1/
+results/v2mi/main/
+results/audit_data_v1/
+results/return_data_v1/
+*.npz
+paper/
+.DS_Store
